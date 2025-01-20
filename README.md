@@ -52,6 +52,9 @@ We resorted to cutting some corners in terms of testing out different
 parameters and things like extensive prompt engineering as finetuning
 the model took quite a while. 
 
+Disclaimer: we followed this tutorial for the finetuning:
+https://medium.com/@ajithshenoy_89727/deploy-a-fine-tune-t5-question-generation-model-using-pytorch-lightning-and-gradio-c33678bc3e88
+
 
 
 
