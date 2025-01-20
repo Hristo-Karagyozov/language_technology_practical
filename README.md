@@ -15,8 +15,8 @@ This project uses a fine-tuned T5 model for generating questions from context pa
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Hristo-Karagyozov/language_technology_practical
+   cd language_technology_practical_group1
    
 2. Install required dependencies:
     ```bash
