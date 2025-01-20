@@ -1,0 +1,7 @@
+.venv
+t5_final_model
+t5_final_tokenizer
+t5_tokenizer
+t5_trained_model
+lightning_logs
+output

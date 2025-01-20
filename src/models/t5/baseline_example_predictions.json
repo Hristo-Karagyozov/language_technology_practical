@@ -1,0 +1,27 @@
+[
+    {
+        "context": "question: During the 1500 who was a valued part of the Ottoman Empire?",
+        "target": "question: During the 1500 who was a valued part of the Ottoman Empire?",
+        "prediction": "Read this passage and generate a question based on it."
+    },
+    {
+        "context": "question: What year did the initial incarnation of The Times start?",
+        "target": "question: What year did the initial incarnation of The Times start?",
+        "prediction": "The Times is a British daily national newspaper based in London. It began in 1785 under the title The Daily Universal Register and became The Times on 1 January 1788. Read this passage and generate a question based on it: The Times is a British daily national newspaper based in London. It began in 1785 under the title The Daily Universal Register and became The Times on 1 January 1788."
+    },
+    {
+        "context": "question: Where did Beyonce perform in 2011?",
+        "target": "question: Where did Beyonce perform in 2011?",
+        "prediction": "True"
+    },
+    {
+        "context": "question: Who were slaughtered upon the arrival of Sulla in Rome?",
+        "target": "question: Who were slaughtered upon the arrival of Sulla in Rome?",
+        "prediction": ", and resigned the dictatorship. He died in 78 BC."
+    },
+    {
+        "context": "question: How many alumni from Imperial were a part of the Gold medal winning GB8+?",
+        "target": "question: How many alumni from Imperial were a part of the Gold medal winning GB8+?",
+        "prediction": "True"
+    }
+]
